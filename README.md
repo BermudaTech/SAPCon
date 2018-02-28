@@ -78,7 +78,11 @@ This is an auto generated structure used in RFC call.
 
 ```SapTable<T>``` is a class derived from ```List<T>``` so you can use all Linq operations! 
 
+# SAPConIO (Web Generator - app.sapcon.io) and SAPConIO.Generator 
+This tool is developed as an internal tool to reduce our development time and effort. I am doing a little make up on generator project before opening the code :)
 
+# How to Use
+Download SAPConIO.Base project to start or test your generated code.
 
 You can try the generator online: http://app.sapcon.io/
 
