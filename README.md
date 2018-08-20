@@ -9,6 +9,9 @@ It also generates RFC metadata documentation as parameter description that makes
 
 Library supports all deep structures, SAP Date and Time > .NET DateTime, import export parameters and tables.
 
+Please see the code samples that are all generated automatically with the tool. Generated codes are ready to use from .NET app to connect and call the SAP RFC!
+https://github.com/mbasaran/SAPCon/tree/master/samples/
+
 This code is Test() function (also auto generated) to Invoke generated code for BAPI_USER_GETLIST
 
 ```C#
